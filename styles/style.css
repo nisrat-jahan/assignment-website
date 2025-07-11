@@ -1,27 +1,35 @@
+
+.header{
+
+}
+
+
 nav{
     display: flex;
     justify-content: space-between;
-    margin-top: 64px;
+    align-items: center;
     margin-left: 150px;
     margin-right: 150px;
 }
 .btn-color{
     background-color: #4E47FF;
     color:white;
+    text-align: center;
     font-weight: bold;
     font-size: 16px;
     padding: 18px;
     border-radius: 5px;
     border: none;
+  
    
 }
 .banner{
     text-align: center;
-    margin: 309px 267px 237px ;
+    margin:  ;
 }
  .header{
     background-image: url(../Assets/Hero-bg.png);
-   
+   height: 100vh;
     
    
  }
@@ -34,11 +42,21 @@ nav{
     color: #252432;
     font-weight: bold;
     font-size: 42px;
+    text-align: left !important;
+
+}
+.action-title-2{
+    color: #252432;
+    font-weight: bold;
+    font-size: 42px;
+    text-align: center;
+
 }
 .action-content{
     color: #252432;
     font-size: 24px;
 }
+
 .section{
     display: flex;
     justify-content: space-between;
@@ -59,7 +77,8 @@ img{
 }
 .color-2{
     color: #252432;
-    font-size: 65px;
+    font-size: 45px;
+    margin-top: 20px;
 }
 
 .raleway-norlam {
@@ -85,6 +104,11 @@ img{
 }
 .section-2{
     background-color: #FFFFFF;
+}
+
+.section-3{
+    width: 80%;
+    margin: auto;
 }
 .icon{
     display: flex;
@@ -117,6 +141,16 @@ img{
     margin: 25px;
     background-color: #FFFFFF;
 }
+.section-5 form{
+    width: 80%;
+    margin-top: 30px;
+
+}
+form label{
+   
+    display: block;
+    padding: 10px 0;
+} 
 .logo{
     color: #4E47FF;
     font-size: 100px
@@ -128,6 +162,7 @@ img{
 ul{
     list-style: none;
     display: flex;
+    justify-content: center;
     
 }
 li{
