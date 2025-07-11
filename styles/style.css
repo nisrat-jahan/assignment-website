@@ -117,4 +117,22 @@ img{
     margin: 25px;
     background-color: #FFFFFF;
 }
+.logo{
+    color: #4E47FF;
+    font-size: 100px
+}
+.logo-1{
+    color: #8987A1;
+}
 
+ul{
+    list-style: none;
+    display: flex;
+    
+}
+li{
+    margin-right: 50px;
+}
+.footer{
+    text-align: center;
+}
