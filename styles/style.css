@@ -68,3 +68,31 @@ img{
   font-weight: <weight>;
   font-style: normal;
 }
+.active{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+}
+.action-title{
+    color: #252432;
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+}
+.flex-1{
+    display: flex;
+    justify-content: space-around;
+}
+.section-2{
+    background-color: #FFFFFF;
+}
+.icon{
+    display: flex;
+    border-radius: 30px;
+    justify-content: space-around;
+
+}
+.icon-1{
+
+    padding: 15px;
+}
