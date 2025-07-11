@@ -96,3 +96,25 @@ img{
 
     padding: 15px;
 }
+.center{
+    text-align: center;
+}
+.bloc{
+   
+}
+.section-4{
+     display: block;
+    justify-content: center;
+}
+.Get{
+    font-weight: bold;
+    font-size: 98px;
+    color: #000000;
+}
+.section-5{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    background-color: #FFFFFF;
+}
+
