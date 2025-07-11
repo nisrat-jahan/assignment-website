@@ -30,6 +30,23 @@ nav{
     color: #4E47FF;
     font-size: 50px;
 }
+.action-title{
+    color: #252432;
+    font-weight: bold;
+    font-size: 42px;
+}
+.action-content{
+    color: #252432;
+    font-size: 24px;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    margin: 150px;
+}
+img{
+    border-radius: 48px;
+}
 
 
 
